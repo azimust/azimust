@@ -8,7 +8,7 @@
   </div>
 
 
-🌐 Languages : Kyrgyz, Russian
+🌐 Languages : Kyrgyz, Russian, English
 
 ---
 
