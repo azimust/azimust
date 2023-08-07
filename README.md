@@ -5,6 +5,7 @@
     Hey there, I'm Azimbek!
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
+  <p>Frontend Developer</p>
   </div>
 
 ---
