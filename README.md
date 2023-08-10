@@ -7,5 +7,3 @@
   </h1>
   <p>Frontend Developer</p>
   </div>
-
----
